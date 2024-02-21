@@ -1,5 +1,5 @@
 # COUNTRIES GDP SCRAPPER
-scrape the country's GDP for 2023 and store in a SQLite database(countries_gdp.db)
+scrape the ccountries GDP for 2023 and store in a SQLite database(countries_gdp.db)
 
 ## Prerequisites
 
