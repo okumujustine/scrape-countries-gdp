@@ -11,8 +11,8 @@ scrape the country's GDP for 2023 and store in a SQLite database(countries_gdp.d
 1. **Clone the repository:**
 
     ```bash
-    git clone git@github.com:okumujustine/scrape-google-finance.git
-    cd scrape-google-finance
+    git clone git@github.com:okumujustine/scrape-countries-gdp.git
+    cd scrape-countries-gdp
     ```
 2. **Install required packages**
 
